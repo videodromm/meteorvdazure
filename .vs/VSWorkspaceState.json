@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.meteor",
+    "\\client",
+    "\\imports",
+    "\\imports\\ui",
+    "\\public",
+    "\\public\\images",
+    "\\public\\thumbs",
+    "\\script",
+    "\\script\\.config",
+    "\\script\\.config\\azure"
+  ],
+  "SelectedNode": "\\script\\.config\\azure\\deploy.sh",
+  "PreviewInSolutionExplorer": false
+}
